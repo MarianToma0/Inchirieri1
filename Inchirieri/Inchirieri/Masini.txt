@@ -1,0 +1,5 @@
+Dacia Logan,2020,100,false
+Volkswagen Golf,2019,150,true
+Ford Focus,2021,120,false
+Lamborghinii Urus,2022,65500,False
+Mclaren Gt,2015,35500,False
